@@ -1,0 +1,28 @@
+body{
+background-color: color-mix(in srgb, black 50%, white 50%);
+
+}
+h1{
+   font-size: 30pt;
+   text-align: center;
+}
+.halleyimg{
+width: 20%;
+height: 25%;
+}
+.centro{
+   display: flex;
+   border: 2px solid black;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 15pt;
+   
+}
+#div{
+   border: solid red 20px;
+   color: blue;
+   text-align: right;
+   font-family: verdana;
+   padding:10%;
+}
+
+

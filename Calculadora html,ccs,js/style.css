@@ -1,0 +1,17 @@
+div {
+    margin: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+    background-color: white;
+    color: aqua;
+    text-align: center;
+    justify-content: center;
+    border: solid black 2pt;
+
+}
+body{
+    background-color: cyan;
+    
+}

@@ -1,0 +1,23 @@
+body{
+	background-color: yellow;
+	font-size: 20pt;
+	color: purple;
+	display: flex;
+	flex-direction:column;
+	
+}
+h1{
+	background-color: pink;
+	color:blue;
+	font-size: 100pt;
+	text-align: center;
+	height: 500px;
+	width: 50%;
+}
+p{
+	background-color: #D4A53F;
+	font-family:Roboto Mono;
+	font-size: 40px;
+	height: 100px;
+	width: 50%;
+}

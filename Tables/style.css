@@ -1,0 +1,16 @@
+table,tr,th,td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.9em;
+}
+#nome{
+    text-align: center;
+    background-color: aqua;
+}
+#idade{
+    text-align: center;
+}
+#tabela{
+    width: 80%;
+}
