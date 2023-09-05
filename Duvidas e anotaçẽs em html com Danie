@@ -1,13 +1,13 @@
 AULA 1
+
 Tipos de declaração css:
 emlinha = <h1 style="color:blue;", 
 incorporado = <style>h1{background-color:blue;}<style>,
 externo= <link rel= "stylesheet" href="style.css"
 
-seletor global=  *{}
+Seletor global=  *{}
 
 Padding, Border, Margin, Hover
 
 div>h2 e div h2
 
-AULA 2

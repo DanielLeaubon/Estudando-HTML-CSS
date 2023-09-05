@@ -1,0 +1,17 @@
+body{
+    background-color:color-mix(in srgb, grey 70%, black 30%)
+}
+#titulo{
+    text-align: center;
+    font-size:30pt;
+    width: 100%;
+}
+#linkpaginas{
+    text-align: center;
+    font-size: larger;
+}
+.adoslink{
+    text-decoration: none;
+    display: inline-block;
+    margin: 20px;
+}
